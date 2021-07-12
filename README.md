@@ -7,7 +7,12 @@ Practicing about Data Processing
 
 <img src="https://raw.githubusercontent.com/data-labs/image/main/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-07%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.36.15.png?raw=1" width=400 align='left'><br/>
 
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+  
 - About the Data
 타이타닉 탑승자 개인별 데이터를 보고 생존 여부를 예측하는 예제 데이터
 
