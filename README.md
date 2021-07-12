@@ -13,7 +13,7 @@ Practicing about Data Processing
 <br/>
 <br/>
   
- \\\\
+<br/>
  <br/>
  <br/>
  <br/>
@@ -22,7 +22,7 @@ Practicing about Data Processing
  <br/>
  <br/>
  <br/>
-- About the Data
+- About the Data<br/>
 타이타닉 탑승자 개인별 데이터를 보고 생존 여부를 예측하는 예제 데이터
 
 Survival - 생존여부(타겟변수 y): 0 = No, 1 = Yes
