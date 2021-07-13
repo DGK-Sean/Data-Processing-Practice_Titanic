@@ -44,3 +44,16 @@ Fare - 승선 요금
 Cabin - 캐빈(객실) 번호
 
 Embarked - 승선한 항구: C = Cherbourg, Q = Queenstown, S = Southampton
+ <br/>
+ __________________________________________________________________________________________________________________________________________________
+ 
+ **Why and When do we do Log transformation?** 
+ 
+- It allows us to make a better linear relationship (thus, "explaining" better) between the input (x) and output (y).
+- Log transformation input can be the following:
+  - Money, Finance-related
+  - Biological reaction
+  - Sound 
+
+ Example from Real-estate example/부동산:
+ 지하실 면적처럼 면적이 크다고 면적에 비례해서 집 값이 올라가는 것이 아니라 큰 값을 약화시키는 것이 더 모델의 성능을 개선시키는 사례도 있습니다. 이러한 사례는 경험과 시행착오로 찾는 것입니다. (데이터의 확률 분포를 보고 가능한 정규 분포 모양을 따르는지 보고 관찰합니다.
