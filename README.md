@@ -1,5 +1,5 @@
 # Data-Processing-Practice_Titanic
-Practicing about Data Processing 
+Practicing on Data Processing 
 # 데이터 전처리 실습
 
 - 타이타닉 생존자 예측 문제 데이터의 전처리
